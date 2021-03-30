@@ -194,6 +194,7 @@ if (!gotTheLock) {
         'en',
         'es',
         'fr',
+        'ml',
         'nl',
         'pl',
         'pt',
